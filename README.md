@@ -26,6 +26,7 @@ A real-time object detection system that captures video from your browser webcam
 | AI Model   | YOLOv8 (`yolov8n.pt` or `yolov8s.pt`) |
 | Language   | Python, JavaScript           |
 
+<img width="1536" height="1024" alt="ChatGPT Image Jul 24, 2025, 09_13_06 AM" src="https://github.com/user-attachments/assets/da676a2c-9313-4c45-b3f9-eee042b606db" />
 ---
 
 ## 📂 Project Structure
