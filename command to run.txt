@@ -1,0 +1,12 @@
+Backend:
+pip install -r requirements.txt
+
+python -m venv venv
+source venv/bin/activate   # On Windows: venv\Scripts\activate
+pip install -r requirements.txt
+
+Frontend:
+npm install
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
