@@ -61,9 +61,6 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 
 2️⃣ Frontend: React (Vite)
-bash
-Copy
-Edit
 cd frontend
 npm install
 npm run dev
